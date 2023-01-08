@@ -5,7 +5,7 @@ import 'package:checklist/screens/task_screen.dart';
 import 'package:checklist/widgets/custom_container.dart';
 import 'package:checklist/widgets/drawer.dart';
 import 'package:checklist/widgets/navigate.dart';
-import 'package:checklist/widgets/textfield.dart';
+import 'package:checklist/widgets/custom_textfield.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {

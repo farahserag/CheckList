@@ -2,7 +2,7 @@ import 'package:checklist/models/colors.dart';
 import 'package:checklist/screens/home.dart';
 import 'package:checklist/screens/sign_up.dart';
 import 'package:checklist/widgets/navigate.dart';
-import 'package:checklist/widgets/textfield.dart';
+import 'package:checklist/widgets/custom_textfield.dart';
 import 'package:flutter/material.dart';
 
 class SignIn extends StatelessWidget {
